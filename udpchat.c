@@ -7,7 +7,7 @@
 */ 
 
 // Needed this for getaddrinfo() function, ask compiler for functions and constants from the POSTIX.1-2001 spec. 
-#define _POSIX_C_SOURCE 200112L
+#define _POSIX_C_SOUR CE 200112L
  
 #include <stdio.h>
 #include <stdlib.h>
